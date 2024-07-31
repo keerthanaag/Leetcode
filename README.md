@@ -24,6 +24,7 @@ storing all my solutions in leetcode
 | [0189-rotate-array](https://github.com/keerthanaag/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/keerthanaag/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/keerthanaag/Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/keerthanaag/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,4 +137,8 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/keerthanaag/Leetcode/tree/master/0197-rising-temperature) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/keerthanaag/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
