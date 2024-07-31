@@ -117,4 +117,8 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/keerthanaag/Leetcode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/keerthanaag/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
