@@ -25,6 +25,7 @@ storing all my solutions in leetcode
 | [0217-contains-duplicate](https://github.com/keerthanaag/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/keerthanaag/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/keerthanaag/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/keerthanaag/Leetcode/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ storing all my solutions in leetcode
 | [0136-single-number](https://github.com/keerthanaag/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/keerthanaag/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/keerthanaag/Leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/keerthanaag/Leetcode/tree/master/0260-single-number-iii) |
 ## Counting
 |  |
 | ------- |
