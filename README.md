@@ -72,6 +72,7 @@ storing all my solutions in leetcode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keerthanaag/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/keerthanaag/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/keerthanaag/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +112,7 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0136-single-number](https://github.com/keerthanaag/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/keerthanaag/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
