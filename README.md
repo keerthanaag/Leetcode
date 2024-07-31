@@ -21,6 +21,7 @@ storing all my solutions in leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keerthanaag/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/keerthanaag/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/keerthanaag/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/keerthanaag/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ storing all my solutions in leetcode
 | [0013-roman-to-integer](https://github.com/keerthanaag/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/keerthanaag/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/keerthanaag/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/keerthanaag/Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -83,6 +85,7 @@ storing all my solutions in leetcode
 | [0075-sort-colors](https://github.com/keerthanaag/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keerthanaag/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/keerthanaag/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/keerthanaag/Leetcode/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |
