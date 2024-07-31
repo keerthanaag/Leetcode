@@ -26,6 +26,7 @@ storing all my solutions in leetcode
 | [0229-majority-element-ii](https://github.com/keerthanaag/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/keerthanaag/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/keerthanaag/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ storing all my solutions in leetcode
 | [0217-contains-duplicate](https://github.com/keerthanaag/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/keerthanaag/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/keerthanaag/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +58,7 @@ storing all my solutions in leetcode
 | [0231-power-of-two](https://github.com/keerthanaag/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/keerthanaag/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/keerthanaag/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -83,6 +86,7 @@ storing all my solutions in leetcode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keerthanaag/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/keerthanaag/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/keerthanaag/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,6 +121,7 @@ storing all my solutions in leetcode
 | [0217-contains-duplicate](https://github.com/keerthanaag/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/keerthanaag/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/keerthanaag/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +140,7 @@ storing all my solutions in leetcode
 | [0191-number-of-1-bits](https://github.com/keerthanaag/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/keerthanaag/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/keerthanaag/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
