@@ -34,6 +34,7 @@ storing all my solutions in leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthanaag/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/keerthanaag/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/keerthanaag/Leetcode/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,4 +47,8 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keerthanaag/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/keerthanaag/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
