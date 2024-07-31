@@ -10,6 +10,7 @@ storing all my solutions in leetcode
 | [0004-median-of-two-sorted-arrays](https://github.com/keerthanaag/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthanaag/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/keerthanaag/Leetcode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keerthanaag/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keerthanaag/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keerthanaag/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
