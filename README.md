@@ -23,6 +23,7 @@ storing all my solutions in leetcode
 | [0169-majority-element](https://github.com/keerthanaag/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/keerthanaag/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/keerthanaag/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/keerthanaag/Leetcode/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ storing all my solutions in leetcode
 | [0202-happy-number](https://github.com/keerthanaag/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/keerthanaag/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/keerthanaag/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/keerthanaag/Leetcode/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -105,6 +107,7 @@ storing all my solutions in leetcode
 | [0088-merge-sorted-array](https://github.com/keerthanaag/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/keerthanaag/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keerthanaag/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/keerthanaag/Leetcode/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +128,7 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/keerthanaag/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/keerthanaag/Leetcode/tree/master/0229-majority-element-ii) |
 ## Database
 |  |
 | ------- |
