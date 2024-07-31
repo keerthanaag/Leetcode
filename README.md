@@ -55,6 +55,7 @@ storing all my solutions in leetcode
 | [0202-happy-number](https://github.com/keerthanaag/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/keerthanaag/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/keerthanaag/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/keerthanaag/Leetcode/tree/master/0263-ugly-number) |
 ## Recursion
 |  |
 | ------- |
