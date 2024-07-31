@@ -29,6 +29,7 @@ storing all my solutions in leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthanaag/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/keerthanaag/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/keerthanaag/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/keerthanaag/Leetcode/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -43,6 +44,7 @@ storing all my solutions in leetcode
 | [0066-plus-one](https://github.com/keerthanaag/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/keerthanaag/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/keerthanaag/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/keerthanaag/Leetcode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +89,7 @@ storing all my solutions in leetcode
 | [0088-merge-sorted-array](https://github.com/keerthanaag/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/keerthanaag/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/keerthanaag/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/keerthanaag/Leetcode/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
