@@ -16,6 +16,7 @@ storing all my solutions in leetcode
 | [0075-sort-colors](https://github.com/keerthanaag/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keerthanaag/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/keerthanaag/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/keerthanaag/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +88,5 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/keerthanaag/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/keerthanaag/Leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
