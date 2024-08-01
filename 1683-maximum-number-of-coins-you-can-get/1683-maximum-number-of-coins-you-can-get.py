@@ -1,9 +1,5 @@
-class Solution(object):
-    def maxCoins(self, piles):
-        """
-        :type piles: List[int]
-        :rtype: int
-        """
+class Solution:
+    def maxCoins(self, piles: List[int]) -> int:
         piles=sorted(piles,reverse=True)
         you=0
         i=1
@@ -14,4 +10,4 @@ class Solution(object):
             pos-=1
             i+=2
         return you
-                
+        
