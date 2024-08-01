@@ -66,6 +66,7 @@ storing all my solutions in leetcode
 | [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/keerthanaag/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/keerthanaag/Leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/keerthanaag/Leetcode/tree/master/0343-integer-break) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Recursion
 |  |
@@ -145,6 +146,7 @@ storing all my solutions in leetcode
 | [0119-pascals-triangle-ii](https://github.com/keerthanaag/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthanaag/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keerthanaag/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0343-integer-break](https://github.com/keerthanaag/Leetcode/tree/master/0343-integer-break) |
 ## Greedy
 |  |
 | ------- |
