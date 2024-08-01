@@ -29,6 +29,7 @@ storing all my solutions in leetcode
 | [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/keerthanaag/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/keerthanaag/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ storing all my solutions in leetcode
 | [0263-ugly-number](https://github.com/keerthanaag/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/keerthanaag/Leetcode/tree/master/0326-power-of-three) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Recursion
 |  |
 | ------- |
@@ -133,6 +135,7 @@ storing all my solutions in leetcode
 | [0229-majority-element-ii](https://github.com/keerthanaag/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/keerthanaag/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +147,7 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keerthanaag/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -174,4 +178,8 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/keerthanaag/Leetcode/tree/master/0258-add-digits) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
