@@ -29,6 +29,7 @@ storing all my solutions in leetcode
 | [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/keerthanaag/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/keerthanaag/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ storing all my solutions in leetcode
 | [0205-isomorphic-strings](https://github.com/keerthanaag/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keerthanaag/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/keerthanaag/Leetcode/tree/master/0290-word-pattern) |
+| [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Sliding Window
 |  |
 | ------- |
