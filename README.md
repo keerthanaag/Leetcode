@@ -65,6 +65,7 @@ storing all my solutions in leetcode
 | [0263-ugly-number](https://github.com/keerthanaag/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/keerthanaag/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/keerthanaag/Leetcode/tree/master/0342-power-of-four) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Recursion
 |  |
@@ -72,6 +73,7 @@ storing all my solutions in leetcode
 | [0002-add-two-numbers](https://github.com/keerthanaag/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/keerthanaag/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/keerthanaag/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/keerthanaag/Leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -157,6 +159,7 @@ storing all my solutions in leetcode
 | [0260-single-number-iii](https://github.com/keerthanaag/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/keerthanaag/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/keerthanaag/Leetcode/tree/master/0342-power-of-four) |
 ## Counting
 |  |
 | ------- |
