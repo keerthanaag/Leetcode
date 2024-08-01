@@ -6,7 +6,7 @@ class Solution:
         pos=len(piles)-1
         while i<pos:
             you+=piles[i]
-            print(i,piles[i],pos,piles[pos])
+            #print(i,piles[i],pos,piles[pos])
             pos-=1
             i+=2
         return you
