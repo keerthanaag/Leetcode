@@ -1,5 +1,9 @@
-class Solution:
-    def canBeEqual(self, target: List[int], arr: List[int]) -> bool:
-        if sorted(arr)==sorted(target):
-            return True
-        return False
+class Solution(object):
+    def canBeEqual(self, target, arr):
+        """
+        :type target: List[int]
+        :type arr: List[int]
+        :rtype: bool
+        """
+        return sorted(arr) == sorted(target)
+        
