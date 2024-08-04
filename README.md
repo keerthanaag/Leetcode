@@ -104,6 +104,7 @@ storing all my solutions in leetcode
 | [0383-ransom-note](https://github.com/keerthanaag/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/keerthanaag/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/keerthanaag/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/keerthanaag/Leetcode/tree/master/0392-is-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Sliding Window
@@ -149,6 +150,7 @@ storing all my solutions in leetcode
 | [0345-reverse-vowels-of-a-string](https://github.com/keerthanaag/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthanaag/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthanaag/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/keerthanaag/Leetcode/tree/master/0392-is-subsequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/keerthanaag/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String Matching
 |  |
@@ -179,6 +181,7 @@ storing all my solutions in leetcode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthanaag/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keerthanaag/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0343-integer-break](https://github.com/keerthanaag/Leetcode/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/keerthanaag/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
