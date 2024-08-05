@@ -37,6 +37,7 @@ storing all my solutions in leetcode
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ storing all my solutions in leetcode
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/keerthanaag/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Linked List
 |  |
 | ------- |
