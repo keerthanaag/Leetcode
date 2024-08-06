@@ -3,15 +3,12 @@ class MinStack:
     
     def __init__(self):
         self.d=deque()
-        self.flag=0
         self.n=len(self.d)
+
     def push(self, val: int) -> None:
         self.d.append(val)
-        if self.flag==0:
-            self.min_val=val
-            self.flag=1
-        else:
-            self.min_val=min(val,self.min_val)
+
+
     def pop(self) -> None:
         self.d.pop()
 
