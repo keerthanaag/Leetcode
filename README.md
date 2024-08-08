@@ -151,6 +151,7 @@ storing all my solutions in leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/keerthanaag/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/keerthanaag/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/keerthanaag/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Two Pointers
 |  |
 | ------- |
@@ -250,6 +251,7 @@ storing all my solutions in leetcode
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/keerthanaag/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/keerthanaag/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
@@ -259,4 +261,5 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/keerthanaag/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/keerthanaag/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
