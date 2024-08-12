@@ -1,15 +1,11 @@
-from collections import deque
 class KthLargest:
 
     def __init__(self, k: int, nums: List[int]):
         self.nums=nums
         self.k=k
     def add(self, val: int) -> int:
-        # self.d.append(val)
-        # self.d=sorted(self.d)
-        # return self.d[len(self.d)-self.k]
         self.nums.append(val)
-        self.nums=sorted(self.nums)
+        self.nums.sort()
         return self.nums[len(self.nums)-self.k]
 
 
