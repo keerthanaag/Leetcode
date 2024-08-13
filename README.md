@@ -232,6 +232,7 @@ storing all my solutions in leetcode
 | ------- |
 | [0197-rising-temperature](https://github.com/keerthanaag/Leetcode/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/keerthanaag/Leetcode/tree/master/0620-not-boring-movies) |
+| [1390-average-selling-price](https://github.com/keerthanaag/Leetcode/tree/master/1390-average-selling-price) |
 ## Prefix Sum
 |  |
 | ------- |
