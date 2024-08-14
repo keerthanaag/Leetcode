@@ -42,6 +42,7 @@ storing all my solutions in leetcode
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/keerthanaag/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ storing all my solutions in leetcode
 | [0412-fizz-buzz](https://github.com/keerthanaag/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/keerthanaag/Leetcode/tree/master/0415-add-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/keerthanaag/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
 | ------- |
