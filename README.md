@@ -29,6 +29,7 @@ storing all my solutions in leetcode
 | [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/keerthanaag/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/keerthanaag/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/keerthanaag/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthanaag/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthanaag/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/keerthanaag/Leetcode/tree/master/0414-third-maximum-number) |
@@ -259,6 +260,7 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keerthanaag/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/keerthanaag/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Simulation
 |  |
@@ -290,6 +292,7 @@ storing all my solutions in leetcode
 | [0155-min-stack](https://github.com/keerthanaag/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/keerthanaag/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/keerthanaag/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/keerthanaag/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/keerthanaag/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Tree
 |  |
