@@ -38,6 +38,7 @@ storing all my solutions in leetcode
 | [0485-max-consecutive-ones](https://github.com/keerthanaag/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/keerthanaag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/keerthanaag/Leetcode/tree/master/0500-keyboard-row) |
+| [0932-monotonic-array](https://github.com/keerthanaag/Leetcode/tree/master/0932-monotonic-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/keerthanaag/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/keerthanaag/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
