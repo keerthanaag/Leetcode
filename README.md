@@ -231,6 +231,7 @@ storing all my solutions in leetcode
 | [0287-find-the-duplicate-number](https://github.com/keerthanaag/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/keerthanaag/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/keerthanaag/Leetcode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/keerthanaag/Leetcode/tree/master/0461-hamming-distance) |
 ## Counting
 |  |
 | ------- |
