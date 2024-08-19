@@ -39,6 +39,7 @@ storing all my solutions in leetcode
 | [0485-max-consecutive-ones](https://github.com/keerthanaag/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/keerthanaag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/keerthanaag/Leetcode/tree/master/0500-keyboard-row) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/keerthanaag/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0932-monotonic-array](https://github.com/keerthanaag/Leetcode/tree/master/0932-monotonic-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/keerthanaag/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -155,6 +156,7 @@ storing all my solutions in leetcode
 | [0287-find-the-duplicate-number](https://github.com/keerthanaag/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthanaag/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keerthanaag/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/keerthanaag/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/keerthanaag/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
