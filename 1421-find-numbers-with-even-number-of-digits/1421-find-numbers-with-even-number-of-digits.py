@@ -1,9 +1,5 @@
-class Solution(object):
-    def findNumbers(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def findNumbers(self, nums: List[int]) -> int:
         count=0
         for num in nums:
             length=0
@@ -13,5 +9,9 @@ class Solution(object):
             if length %2==0:
                 count+=1
         return count
-            
+        # count=0
+        # for x in nums:
+        #     if len(str(x)) % 2==0:
+        #         count+=1
+        # return count
         
