@@ -1,14 +1,12 @@
-class Solution(object):
-    def findKthPositive(self, arr, k):
-        """
-        :type arr: List[int]
-        :type k: int
-        :rtype: int
-        """
-        lst=[]
+class Solution:
+    def findKthPositive(self, arr: List[int], k: int) -> int:
         i=1
+        j=0
+        lst=[]
         while len(lst)<=k:
-            if i not in arr:
+            if j < len(arr) and i == arr[j]:
+                j+=1
+            else:
                 lst.append(i)
             i+=1
         return lst[k-1]
