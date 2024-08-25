@@ -88,6 +88,7 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/keerthanaag/Leetcode/tree/master/0002-add-two-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keerthanaag/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +110,7 @@ storing all my solutions in leetcode
 | [0412-fizz-buzz](https://github.com/keerthanaag/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/keerthanaag/Leetcode/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/keerthanaag/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keerthanaag/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/keerthanaag/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion
