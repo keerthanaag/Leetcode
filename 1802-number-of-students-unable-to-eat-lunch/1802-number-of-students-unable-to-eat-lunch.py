@@ -1,8 +1,10 @@
-from collections import deque
-class Solution:
-    def countStudents(self, students: List[int], sandwiches: List[int]) -> int:
-        d=deque()
-        d.extend(students)
+class Solution(object):
+    def countStudents(self, students, sandwiches):
+        """
+        :type students: List[int]
+        :type sandwiches: List[int]
+        :rtype: int
+        """
         while(1):
             flag=0
             i=0
@@ -17,5 +19,4 @@ class Solution:
             if flag==0:
                 break
         return len(students)
-            
-                
+        
