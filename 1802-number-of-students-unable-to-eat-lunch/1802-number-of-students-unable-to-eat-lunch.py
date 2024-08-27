@@ -11,10 +11,8 @@ class Solution:
                     flag=1
                     students.pop(0)
                     sandwiches.pop(0)
-                    print("inside if",students,sandwiches)
                 else:
                     students.append(students.pop(0))
-                print(students,sandwiches)
                 i+=1
             if flag==0:
                 break
