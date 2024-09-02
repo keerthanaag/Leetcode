@@ -1,5 +1,10 @@
-class Solution:
-    def chalkReplacer(self, chalk: List[int], k: int) -> int:
+class Solution(object):
+    def chalkReplacer(self, chalk, k):
+        """
+        :type chalk: List[int]
+        :type k: int
+        :rtype: int
+        """
         add=sum(chalk)
         val=k%add
         print(val,add)
@@ -8,4 +13,5 @@ class Solution:
                 return i
             val-=x
         return -1
+        
         
