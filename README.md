@@ -46,6 +46,7 @@ storing all my solutions in leetcode
 | [1031-add-to-array-form-of-integer](https://github.com/keerthanaag/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/keerthanaag/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1395-minimum-time-visiting-all-points](https://github.com/keerthanaag/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/keerthanaag/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthanaag/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/keerthanaag/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -116,6 +117,7 @@ storing all my solutions in leetcode
 | [0412-fizz-buzz](https://github.com/keerthanaag/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/keerthanaag/Leetcode/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/keerthanaag/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1395-minimum-time-visiting-all-points](https://github.com/keerthanaag/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keerthanaag/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthanaag/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -349,4 +351,8 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/keerthanaag/Leetcode/tree/master/0496-next-greater-element-i) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/keerthanaag/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
