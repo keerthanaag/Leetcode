@@ -41,6 +41,7 @@ storing all my solutions in leetcode
 | [0485-max-consecutive-ones](https://github.com/keerthanaag/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/keerthanaag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/keerthanaag/Leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/keerthanaag/Leetcode/tree/master/0506-relative-ranks) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/keerthanaag/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0932-monotonic-array](https://github.com/keerthanaag/Leetcode/tree/master/0932-monotonic-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/keerthanaag/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -235,6 +236,7 @@ storing all my solutions in leetcode
 | [0389-find-the-difference](https://github.com/keerthanaag/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/keerthanaag/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/keerthanaag/Leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/keerthanaag/Leetcode/tree/master/0506-relative-ranks) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/keerthanaag/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/keerthanaag/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -338,6 +340,7 @@ storing all my solutions in leetcode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/keerthanaag/Leetcode/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/keerthanaag/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
