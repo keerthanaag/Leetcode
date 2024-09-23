@@ -63,6 +63,7 @@ storing all my solutions in leetcode
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/keerthanaag/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/keerthanaag/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -129,6 +130,7 @@ storing all my solutions in leetcode
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keerthanaag/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthanaag/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/keerthanaag/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/keerthanaag/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
