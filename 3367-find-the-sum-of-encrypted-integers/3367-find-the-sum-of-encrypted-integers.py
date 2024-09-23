@@ -1,5 +1,9 @@
-class Solution:
-    def sumOfEncryptedInt(self, nums: List[int]) -> int:
+class Solution(object):
+    def sumOfEncryptedInt(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
         ans=0
         for x in nums:
             bal=0
@@ -10,5 +14,4 @@ class Solution:
                 count+=1
             ans+=int(str(bal)*count)
         return ans
-
         
