@@ -44,6 +44,7 @@ storing all my solutions in leetcode
 | [0506-relative-ranks](https://github.com/keerthanaag/Leetcode/tree/master/0506-relative-ranks) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/keerthanaag/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0816-design-hashset](https://github.com/keerthanaag/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/keerthanaag/Leetcode/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/keerthanaag/Leetcode/tree/master/0932-monotonic-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/keerthanaag/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/keerthanaag/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -89,6 +90,7 @@ storing all my solutions in leetcode
 | [0496-next-greater-element-i](https://github.com/keerthanaag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/keerthanaag/Leetcode/tree/master/0500-keyboard-row) |
 | [0816-design-hashset](https://github.com/keerthanaag/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/keerthanaag/Leetcode/tree/master/0817-design-hashmap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/keerthanaag/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/keerthanaag/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -100,6 +102,7 @@ storing all my solutions in leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/keerthanaag/Leetcode/tree/master/0002-add-two-numbers) |
 | [0816-design-hashset](https://github.com/keerthanaag/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/keerthanaag/Leetcode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keerthanaag/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
@@ -336,6 +339,7 @@ storing all my solutions in leetcode
 | [0303-range-sum-query-immutable](https://github.com/keerthanaag/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/keerthanaag/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/keerthanaag/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/keerthanaag/Leetcode/tree/master/0817-design-hashmap) |
 ## Tree
 |  |
 | ------- |
@@ -369,4 +373,5 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/keerthanaag/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/keerthanaag/Leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
