@@ -8,10 +8,7 @@ class Solution:
                 bal=max(bal,x%10)
                 x=x//10
                 count+=1
-            print(count,bal)
-            val=int(str(bal)*count)
-            print(val)
-            ans+=val
+            ans+=int(str(bal)*count)
         return ans
 
         
