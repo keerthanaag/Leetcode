@@ -1,17 +1,33 @@
-class MyHashMap:
+class MyHashMap(object):
 
     def __init__(self):
-       self.d={} 
+        self.d={} 
 
-    def put(self, key: int, value: int) -> None:
+    def put(self, key, value):
+        """
+        :type key: int
+        :type value: int
+        :rtype: None
+        """
         self.d.update({key:value})
+        
 
-    def get(self, key: int) -> int:
+    def get(self, key):
+        """
+        :type key: int
+        :rtype: int
+        """
         return self.d.setdefault(key,-1)
+        
 
-    def remove(self, key: int) -> None:
+    def remove(self, key):
+        """
+        :type key: int
+        :rtype: None
+        """
         if key in self.d:
             return self.d.pop(key)
+        
 
 
 # Your MyHashMap object will be instantiated and called as such:
