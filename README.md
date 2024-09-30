@@ -69,6 +69,7 @@ storing all my solutions in leetcode
 | [3446-find-the-number-of-good-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/keerthanaag/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3519-find-the-number-of-winning-players](https://github.com/keerthanaag/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
+| [3582-find-indices-of-stable-mountains](https://github.com/keerthanaag/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
 | ------- |
