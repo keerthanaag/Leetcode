@@ -69,6 +69,7 @@ storing all my solutions in leetcode
 | [3446-find-the-number-of-good-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/keerthanaag/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3519-find-the-number-of-winning-players](https://github.com/keerthanaag/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/keerthanaag/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/keerthanaag/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ storing all my solutions in leetcode
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/keerthanaag/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/keerthanaag/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
 |  |
 | ------- |
@@ -136,6 +138,7 @@ storing all my solutions in leetcode
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/keerthanaag/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/keerthanaag/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/keerthanaag/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
 | ------- |
