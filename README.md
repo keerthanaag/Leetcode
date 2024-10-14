@@ -70,6 +70,7 @@ storing all my solutions in leetcode
 | [3446-find-the-number-of-good-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/keerthanaag/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3519-find-the-number-of-winning-players](https://github.com/keerthanaag/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
+| [3533-snake-in-matrix](https://github.com/keerthanaag/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/keerthanaag/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/keerthanaag/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/keerthanaag/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -181,6 +182,7 @@ storing all my solutions in leetcode
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthanaag/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3533-snake-in-matrix](https://github.com/keerthanaag/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -330,6 +332,7 @@ storing all my solutions in leetcode
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/keerthanaag/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/keerthanaag/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthanaag/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3533-snake-in-matrix](https://github.com/keerthanaag/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Number Theory
 |  |
 | ------- |
