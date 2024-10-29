@@ -314,6 +314,7 @@ storing all my solutions in leetcode
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/keerthanaag/Leetcode/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/keerthanaag/Leetcode/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/keerthanaag/Leetcode/tree/master/0620-not-boring-movies) |
 | [1390-average-selling-price](https://github.com/keerthanaag/Leetcode/tree/master/1390-average-selling-price) |
