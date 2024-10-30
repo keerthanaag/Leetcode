@@ -144,6 +144,7 @@ storing all my solutions in leetcode
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/keerthanaag/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/keerthanaag/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3567-convert-date-to-binary](https://github.com/keerthanaag/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/keerthanaag/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/keerthanaag/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
@@ -185,6 +186,7 @@ storing all my solutions in leetcode
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthanaag/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3533-snake-in-matrix](https://github.com/keerthanaag/Leetcode/tree/master/3533-snake-in-matrix) |
+| [3567-convert-date-to-binary](https://github.com/keerthanaag/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Sliding Window
 |  |
 | ------- |
