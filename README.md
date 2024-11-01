@@ -179,6 +179,7 @@ storing all my solutions in leetcode
 | [0482-license-key-formatting](https://github.com/keerthanaag/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/keerthanaag/Leetcode/tree/master/0500-keyboard-row) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/keerthanaag/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/keerthanaag/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/keerthanaag/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/keerthanaag/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
