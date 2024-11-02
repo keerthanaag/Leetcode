@@ -184,6 +184,7 @@ storing all my solutions in leetcode
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/keerthanaag/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/keerthanaag/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2580-circular-sentence](https://github.com/keerthanaag/Leetcode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthanaag/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3533-snake-in-matrix](https://github.com/keerthanaag/Leetcode/tree/master/3533-snake-in-matrix) |
