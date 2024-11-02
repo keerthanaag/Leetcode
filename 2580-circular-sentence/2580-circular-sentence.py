@@ -10,5 +10,4 @@ class Solution:
             curr=sen[i][0]
             if prev != curr:
                 return False
-            print(sen[i-1],sen[i],prev,curr)
         return True    
