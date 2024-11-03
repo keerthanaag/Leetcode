@@ -178,6 +178,7 @@ storing all my solutions in leetcode
 | [0459-repeated-substring-pattern](https://github.com/keerthanaag/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/keerthanaag/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/keerthanaag/Leetcode/tree/master/0500-keyboard-row) |
+| [0812-rotate-string](https://github.com/keerthanaag/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/keerthanaag/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/keerthanaag/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -252,6 +253,7 @@ storing all my solutions in leetcode
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keerthanaag/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/keerthanaag/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/keerthanaag/Leetcode/tree/master/0812-rotate-string) |
 ## Sorting
 |  |
 | ------- |
