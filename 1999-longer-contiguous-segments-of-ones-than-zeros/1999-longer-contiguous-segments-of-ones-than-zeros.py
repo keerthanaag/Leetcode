@@ -1,5 +1,5 @@
-class Solution(object):
-    def checkZeroOnes(self, s):
+class Solution:
+    def checkZeroOnes(self, s: str) -> bool:
         len_one=0
         len_zero=0
         temp1 =0
