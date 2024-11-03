@@ -104,6 +104,7 @@ storing all my solutions in leetcode
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/keerthanaag/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/keerthanaag/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/keerthanaag/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -188,6 +189,7 @@ storing all my solutions in leetcode
 | [2580-circular-sentence](https://github.com/keerthanaag/Leetcode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthanaag/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/keerthanaag/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3533-snake-in-matrix](https://github.com/keerthanaag/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/keerthanaag/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Sliding Window
