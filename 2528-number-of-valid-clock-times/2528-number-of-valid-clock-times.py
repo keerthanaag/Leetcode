@@ -1,5 +1,9 @@
-class Solution:
-    def countTime(self, time: str) -> int:
+class Solution(object):
+    def countTime(self, time):
+        """
+        :type time: str
+        :rtype: int
+        """
         ans=1
         if time[4]=='?':
             if time[3] == '6':
@@ -23,7 +27,5 @@ class Solution:
             else:
                 ans *= 2
         return ans
-
-
 
         
