@@ -187,6 +187,7 @@ storing all my solutions in leetcode
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/keerthanaag/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/keerthanaag/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2528-number-of-valid-clock-times](https://github.com/keerthanaag/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2580-circular-sentence](https://github.com/keerthanaag/Leetcode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthanaag/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -412,4 +413,8 @@ storing all my solutions in leetcode
 | ------- |
 | [0816-design-hashset](https://github.com/keerthanaag/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/keerthanaag/Leetcode/tree/master/0817-design-hashmap) |
+## Enumeration
+|  |
+| ------- |
+| [2528-number-of-valid-clock-times](https://github.com/keerthanaag/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 <!---LeetCode Topics End-->
