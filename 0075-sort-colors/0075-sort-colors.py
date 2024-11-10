@@ -1,13 +1,21 @@
-class Solution(object):
-    def sortColors(self, nums):
+class Solution:
+    def sortColors(self, nums: List[int]) -> None:
         """
-        :type nums: List[int]
-        :rtype: None Do not return anything, modify nums in-place instead.
+        Do not return anything, modify nums in-place instead.
         """
-        for i in range(len(nums)):
-            for j in range(len(nums)-i-1):
-                if nums[j]> nums[j+1]:
-                    temp = nums[j]
-                    nums[j] =nums[j+1]
-                    nums[j+1] = temp
-                    
+        zeros, ones, n = 0, 0, len(nums)
+        for num in nums:
+            if num == 0:
+                zeros += 1
+            elif num == 1:
+                ones += 1
+
+        for i in range(0, zeros):
+            nums[i] = 0
+
+        for i in range(zeros, zeros + ones):
+            nums[i] = 1
+
+        for i in range(zeros + ones, n):
+            nums[i] = 2
+        
