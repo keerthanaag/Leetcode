@@ -1,18 +1,19 @@
 class Solution:
     def compressedString(self, word: str) -> str:
-        ans = ""
-        i = 0
-        n = len(word)
-        
-        while i < n:
-            char = word[i]
-            count = 1
-            # Check up to 9 repetitions of the current character
-            while i + 1 < n and word[i + 1] == char and count < 9:
-                count += 1
-                i += 1
-            # Append compressed result for the current character
-            ans += str(count) + char
-            i += 1
-        
+        charac = ''
+        times = 0
+        ans = ''
+        for i in range(len(word)):
+            if i == 0:
+                charac = word[i]
+                times += 1
+            else:
+                if charac == word[i] and times < 9:
+                    times += 1
+                else:
+                    ans += str(times)+charac
+                    times = 1
+                    charac = word[i]
+        ans += str(times)+charac
         return ans
+        
