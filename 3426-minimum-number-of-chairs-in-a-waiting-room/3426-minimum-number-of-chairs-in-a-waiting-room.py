@@ -1,5 +1,5 @@
-class Solution:
-    def minimumChairs(self, s: str) -> int:
+class Solution(object):
+    def minimumChairs(self, s):
         no_chairs = 1
         empty_chair = 1
         for x in s:
