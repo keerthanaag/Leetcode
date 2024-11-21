@@ -198,6 +198,7 @@ storing all my solutions in leetcode
 | [3451-string-compression-iii](https://github.com/keerthanaag/Leetcode/tree/master/3451-string-compression-iii) |
 | [3533-snake-in-matrix](https://github.com/keerthanaag/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/keerthanaag/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3636-check-balanced-string](https://github.com/keerthanaag/Leetcode/tree/master/3636-check-balanced-string) |
 ## Sliding Window
 |  |
 | ------- |
