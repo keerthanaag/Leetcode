@@ -49,6 +49,7 @@ storing all my solutions in leetcode
 | [0932-monotonic-array](https://github.com/keerthanaag/Leetcode/tree/master/0932-monotonic-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/keerthanaag/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/keerthanaag/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/keerthanaag/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthanaag/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/keerthanaag/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -140,6 +141,7 @@ storing all my solutions in leetcode
 | [0412-fizz-buzz](https://github.com/keerthanaag/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/keerthanaag/Leetcode/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/keerthanaag/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/keerthanaag/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthanaag/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keerthanaag/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthanaag/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -421,6 +423,7 @@ storing all my solutions in leetcode
 ## Geometry
 |  |
 | ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/keerthanaag/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthanaag/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Hash Function
 |  |
