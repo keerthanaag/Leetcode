@@ -25,6 +25,7 @@ storing all my solutions in leetcode
 | [0169-majority-element](https://github.com/keerthanaag/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/keerthanaag/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/keerthanaag/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/keerthanaag/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/keerthanaag/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/keerthanaag/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/keerthanaag/Leetcode/tree/master/0260-single-number-iii) |
@@ -89,6 +90,7 @@ storing all my solutions in leetcode
 | [0202-happy-number](https://github.com/keerthanaag/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/keerthanaag/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/keerthanaag/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/keerthanaag/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/keerthanaag/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/keerthanaag/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keerthanaag/Leetcode/tree/master/0268-missing-number) |
@@ -213,6 +215,7 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthanaag/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/keerthanaag/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
