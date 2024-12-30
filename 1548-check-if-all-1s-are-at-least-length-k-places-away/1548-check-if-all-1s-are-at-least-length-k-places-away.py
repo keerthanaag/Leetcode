@@ -1,5 +1,5 @@
-class Solution:
-    def kLengthApart(self, nums: List[int], k: int) -> bool:
+class Solution(object):
+    def kLengthApart(self, nums, k):
         pos = -1
         for i in range(0,len(nums)):
             if nums[i] == 1:
