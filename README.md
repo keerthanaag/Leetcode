@@ -203,6 +203,7 @@ storing all my solutions in leetcode
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/keerthanaag/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/keerthanaag/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/keerthanaag/Leetcode/tree/master/3451-string-compression-iii) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/keerthanaag/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3533-snake-in-matrix](https://github.com/keerthanaag/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/keerthanaag/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/keerthanaag/Leetcode/tree/master/3636-check-balanced-string) |
@@ -311,6 +312,7 @@ storing all my solutions in leetcode
 | [0455-assign-cookies](https://github.com/keerthanaag/Leetcode/tree/master/0455-assign-cookies) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/keerthanaag/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Bit Manipulation
 |  |
 | ------- |
