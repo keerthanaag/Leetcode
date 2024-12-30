@@ -61,6 +61,7 @@ storing all my solutions in leetcode
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/keerthanaag/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/keerthanaag/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/keerthanaag/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/keerthanaag/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/keerthanaag/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/keerthanaag/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -438,5 +439,6 @@ storing all my solutions in leetcode
 ## Enumeration
 |  |
 | ------- |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/keerthanaag/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2528-number-of-valid-clock-times](https://github.com/keerthanaag/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 <!---LeetCode Topics End-->
