@@ -153,6 +153,7 @@ storing all my solutions in leetcode
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keerthanaag/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthanaag/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2650-split-with-minimum-sum](https://github.com/keerthanaag/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/keerthanaag/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/keerthanaag/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3567-convert-date-to-binary](https://github.com/keerthanaag/Leetcode/tree/master/3567-convert-date-to-binary) |
@@ -306,6 +307,7 @@ storing all my solutions in leetcode
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/keerthanaag/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2650-split-with-minimum-sum](https://github.com/keerthanaag/Leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -322,6 +324,7 @@ storing all my solutions in leetcode
 | [0455-assign-cookies](https://github.com/keerthanaag/Leetcode/tree/master/0455-assign-cookies) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2650-split-with-minimum-sum](https://github.com/keerthanaag/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/keerthanaag/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Bit Manipulation
 |  |
