@@ -1,9 +1,5 @@
-class Solution(object):
-    def splitNum(self, num):
-        """
-        :type num: int
-        :rtype: int
-        """
+class Solution:
+    def splitNum(self, num: int) -> int:
         lst = []
         while num != 0:
             rem = num % 10
