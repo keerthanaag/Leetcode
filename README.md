@@ -69,6 +69,7 @@ storing all my solutions in leetcode
 | [2132-convert-1d-array-into-2d-array](https://github.com/keerthanaag/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/keerthanaag/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -111,6 +112,7 @@ storing all my solutions in leetcode
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/keerthanaag/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/keerthanaag/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/keerthanaag/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/keerthanaag/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -201,6 +203,7 @@ storing all my solutions in leetcode
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/keerthanaag/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2528-number-of-valid-clock-times](https://github.com/keerthanaag/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2580-circular-sentence](https://github.com/keerthanaag/Leetcode/tree/master/2580-circular-sentence) |
+| [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthanaag/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3396-valid-word](https://github.com/keerthanaag/Leetcode/tree/master/3396-valid-word) |
@@ -333,6 +336,7 @@ storing all my solutions in leetcode
 | [0389-find-the-difference](https://github.com/keerthanaag/Leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/keerthanaag/Leetcode/tree/master/0461-hamming-distance) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/keerthanaag/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 ## Counting
 |  |
 | ------- |
@@ -344,6 +348,7 @@ storing all my solutions in leetcode
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/keerthanaag/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/keerthanaag/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/keerthanaag/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/keerthanaag/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
 ## Database
