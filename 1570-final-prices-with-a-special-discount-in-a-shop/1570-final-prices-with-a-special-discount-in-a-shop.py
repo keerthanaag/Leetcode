@@ -1,5 +1,5 @@
-class Solution:
-    def finalPrices(self, prices: List[int]) -> List[int]:
+class Solution(object):
+    def finalPrices(self, prices):
         for i in range(len(prices)-1):
             j=i+1
             while j < len(prices):
