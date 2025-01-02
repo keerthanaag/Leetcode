@@ -1,5 +1,5 @@
-class Solution:
-    def minMovesToSeat(self, seats: List[int], students: List[int]) -> int:
+class Solution(object):
+    def minMovesToSeat(self, seats, students):
         seats.sort()
         students.sort()
         print(seats,students)
