@@ -1,5 +1,9 @@
-class Solution:
-    def getMaximumGenerated(self, n: int) -> int:
+class Solution(object):
+    def getMaximumGenerated(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
         nums = [0] * (n+1) 
         nums[0] = 0
         if n > 0:
@@ -15,6 +19,4 @@ class Solution:
             if flag == 0:
                 break
         return max(nums)
-
-
         
