@@ -65,6 +65,7 @@ storing all my solutions in leetcode
 | [1646-kth-missing-positive-number](https://github.com/keerthanaag/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/keerthanaag/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1755-defuse-the-bomb](https://github.com/keerthanaag/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1769-get-maximum-in-generated-array](https://github.com/keerthanaag/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/keerthanaag/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/keerthanaag/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -224,6 +225,7 @@ storing all my solutions in leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthanaag/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/keerthanaag/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1755-defuse-the-bomb](https://github.com/keerthanaag/Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Binary Search
 |  |
 | ------- |
