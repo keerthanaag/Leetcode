@@ -49,6 +49,7 @@ storing all my solutions in leetcode
 | [0859-design-circular-deque](https://github.com/keerthanaag/Leetcode/tree/master/0859-design-circular-deque) |
 | [0932-monotonic-array](https://github.com/keerthanaag/Leetcode/tree/master/0932-monotonic-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/keerthanaag/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1115-valid-boomerang](https://github.com/keerthanaag/Leetcode/tree/master/1115-valid-boomerang) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/keerthanaag/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/keerthanaag/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -155,6 +156,7 @@ storing all my solutions in leetcode
 | [0412-fizz-buzz](https://github.com/keerthanaag/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/keerthanaag/Leetcode/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/keerthanaag/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1115-valid-boomerang](https://github.com/keerthanaag/Leetcode/tree/master/1115-valid-boomerang) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/keerthanaag/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthanaag/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keerthanaag/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -461,6 +463,7 @@ storing all my solutions in leetcode
 ## Geometry
 |  |
 | ------- |
+| [1115-valid-boomerang](https://github.com/keerthanaag/Leetcode/tree/master/1115-valid-boomerang) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/keerthanaag/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthanaag/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Hash Function
