@@ -58,6 +58,7 @@ storing all my solutions in leetcode
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/keerthanaag/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/keerthanaag/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/keerthanaag/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1524-string-matching-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/keerthanaag/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/keerthanaag/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/keerthanaag/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -201,6 +202,7 @@ storing all my solutions in leetcode
 | [1302-delete-characters-to-make-fancy-string](https://github.com/keerthanaag/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/keerthanaag/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1524-string-matching-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/keerthanaag/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/keerthanaag/Leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/keerthanaag/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -293,6 +295,7 @@ storing all my solutions in leetcode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keerthanaag/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/keerthanaag/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/keerthanaag/Leetcode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/keerthanaag/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sorting
 |  |
