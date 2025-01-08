@@ -80,6 +80,7 @@ storing all my solutions in leetcode
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/keerthanaag/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/keerthanaag/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -220,6 +221,7 @@ storing all my solutions in leetcode
 | [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthanaag/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3396-valid-word](https://github.com/keerthanaag/Leetcode/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/keerthanaag/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/keerthanaag/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -301,6 +303,7 @@ storing all my solutions in leetcode
 | [0812-rotate-string](https://github.com/keerthanaag/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/keerthanaag/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sorting
 |  |
 | ------- |
@@ -475,6 +478,7 @@ storing all my solutions in leetcode
 | ------- |
 | [0816-design-hashset](https://github.com/keerthanaag/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/keerthanaag/Leetcode/tree/master/0817-design-hashmap) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -488,4 +492,12 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/keerthanaag/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
