@@ -76,6 +76,7 @@ storing all my solutions in leetcode
 | [2132-convert-1d-array-into-2d-array](https://github.com/keerthanaag/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/keerthanaag/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/keerthanaag/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/keerthanaag/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -215,6 +216,7 @@ storing all my solutions in leetcode
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/keerthanaag/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/keerthanaag/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/keerthanaag/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/keerthanaag/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2528-number-of-valid-clock-times](https://github.com/keerthanaag/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2580-circular-sentence](https://github.com/keerthanaag/Leetcode/tree/master/2580-circular-sentence) |
@@ -303,6 +305,7 @@ storing all my solutions in leetcode
 | [0812-rotate-string](https://github.com/keerthanaag/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/keerthanaag/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/keerthanaag/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sorting
 |  |
