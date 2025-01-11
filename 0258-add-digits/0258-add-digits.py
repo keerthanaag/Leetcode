@@ -1,9 +1,5 @@
-class Solution(object):
-    def addDigits(self, num):
-        """
-        :type num: int
-        :rtype: int
-        """
+class Solution:
+    def addDigits(self, num: int) -> int:
         def fn(num):
             temp=0
             while num!=0:
@@ -13,4 +9,3 @@ class Solution(object):
         while num >9:
             num=fn(num)
         return num
-        
