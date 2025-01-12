@@ -1,11 +1,9 @@
-class Solution:
-    def countGoodRectangles(self, rectangles: List[List[int]]) -> int:
+class Solution(object):
+    def countGoodRectangles(self, rectangles):
         maxi = min(rectangles[0])
-        print(maxi)
         count = 0 
         for x in rectangles:
             val = min(x)
-            #print(val)
             if maxi == val:
                 count += 1
             elif maxi < val:
