@@ -1,5 +1,5 @@
-class Solution:
-    def countAndSay(self, n: int) -> str:
+class Solution(object):
+    def countAndSay(self, n):
         for i in range(1,n+1):
             if i == 1:
                 st ="1"
@@ -20,6 +20,3 @@ class Solution:
                     j+=1
                 st += (str(count)+word)
         return st
-
-
-        
