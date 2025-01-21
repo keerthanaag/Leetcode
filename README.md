@@ -71,6 +71,7 @@ storing all my solutions in leetcode
 | [1646-kth-missing-positive-number](https://github.com/keerthanaag/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/keerthanaag/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/keerthanaag/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1755-defuse-the-bomb](https://github.com/keerthanaag/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1769-get-maximum-in-generated-array](https://github.com/keerthanaag/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/keerthanaag/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -272,6 +273,7 @@ storing all my solutions in leetcode
 | [0745-find-smallest-letter-greater-than-target](https://github.com/keerthanaag/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/keerthanaag/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/keerthanaag/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/keerthanaag/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/keerthanaag/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
@@ -346,6 +348,7 @@ storing all my solutions in leetcode
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/keerthanaag/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/keerthanaag/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/keerthanaag/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/keerthanaag/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/keerthanaag/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
