@@ -76,6 +76,7 @@ storing all my solutions in leetcode
 | [1769-get-maximum-in-generated-array](https://github.com/keerthanaag/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/keerthanaag/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/keerthanaag/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
+| [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/keerthanaag/Leetcode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/keerthanaag/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/keerthanaag/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/keerthanaag/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
