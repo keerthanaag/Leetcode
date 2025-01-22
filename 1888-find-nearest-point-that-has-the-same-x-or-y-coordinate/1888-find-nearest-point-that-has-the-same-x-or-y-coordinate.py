@@ -1,5 +1,5 @@
-class Solution:
-    def nearestValidPoint(self, x: int, y: int, points: List[List[int]]) -> int:
+class Solution(object):
+    def nearestValidPoint(self, x, y, points):
         dist = -1
         index = -1     
         for i,pt in enumerate(points):
@@ -9,3 +9,4 @@ class Solution:
                     dist = temp
                     index = i
         return index
+        
