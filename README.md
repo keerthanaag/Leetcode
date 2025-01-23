@@ -57,6 +57,7 @@ storing all my solutions in leetcode
 | [1349-check-if-it-is-a-straight-line](https://github.com/keerthanaag/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthanaag/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1396-count-servers-that-communicate](https://github.com/keerthanaag/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/keerthanaag/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthanaag/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/keerthanaag/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -398,6 +399,7 @@ storing all my solutions in leetcode
 | [0383-ransom-note](https://github.com/keerthanaag/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/keerthanaag/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/keerthanaag/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/keerthanaag/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/keerthanaag/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/keerthanaag/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -456,6 +458,7 @@ storing all my solutions in leetcode
 ## Matrix
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/keerthanaag/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/keerthanaag/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/keerthanaag/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/keerthanaag/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -531,4 +534,16 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/keerthanaag/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/keerthanaag/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/keerthanaag/Leetcode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
