@@ -80,6 +80,7 @@ storing all my solutions in leetcode
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/keerthanaag/Leetcode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/keerthanaag/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/keerthanaag/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/keerthanaag/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/keerthanaag/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/keerthanaag/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/keerthanaag/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
