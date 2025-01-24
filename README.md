@@ -83,6 +83,7 @@ storing all my solutions in leetcode
 | [1975-minimum-distance-to-the-target-element](https://github.com/keerthanaag/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/keerthanaag/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/keerthanaag/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/keerthanaag/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/keerthanaag/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/keerthanaag/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
