@@ -85,6 +85,7 @@ storing all my solutions in leetcode
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/keerthanaag/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/keerthanaag/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/keerthanaag/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/keerthanaag/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/keerthanaag/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanaag/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
