@@ -87,6 +87,7 @@ storing all my solutions in leetcode
 | [2132-convert-1d-array-into-2d-array](https://github.com/keerthanaag/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/keerthanaag/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/keerthanaag/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2159-two-out-of-three](https://github.com/keerthanaag/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanaag/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/keerthanaag/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -139,6 +140,7 @@ storing all my solutions in leetcode
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/keerthanaag/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/keerthanaag/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2159-two-out-of-three](https://github.com/keerthanaag/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/keerthanaag/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -394,6 +396,7 @@ storing all my solutions in leetcode
 | [0461-hamming-distance](https://github.com/keerthanaag/Leetcode/tree/master/0461-hamming-distance) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/keerthanaag/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/keerthanaag/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2159-two-out-of-three](https://github.com/keerthanaag/Leetcode/tree/master/2159-two-out-of-three) |
 | [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/keerthanaag/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
