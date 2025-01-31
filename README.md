@@ -54,6 +54,7 @@ storing all my solutions in leetcode
 | [1071-binary-prefix-divisible-by-5](https://github.com/keerthanaag/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1115-valid-boomerang](https://github.com/keerthanaag/Leetcode/tree/master/1115-valid-boomerang) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/keerthanaag/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1287-distance-between-bus-stops](https://github.com/keerthanaag/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/keerthanaag/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthanaag/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
