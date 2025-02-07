@@ -190,6 +190,7 @@ storing all my solutions in leetcode
 | [0343-integer-break](https://github.com/keerthanaag/Leetcode/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/keerthanaag/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/keerthanaag/Leetcode/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/keerthanaag/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/keerthanaag/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/keerthanaag/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/keerthanaag/Leetcode/tree/master/1115-valid-boomerang) |
@@ -212,6 +213,7 @@ storing all my solutions in leetcode
 | [0231-power-of-two](https://github.com/keerthanaag/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/keerthanaag/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/keerthanaag/Leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/keerthanaag/Leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -381,6 +383,7 @@ storing all my solutions in leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keerthanaag/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0343-integer-break](https://github.com/keerthanaag/Leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/keerthanaag/Leetcode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/keerthanaag/Leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -566,4 +569,8 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/keerthanaag/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/keerthanaag/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
