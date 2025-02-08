@@ -8,8 +8,7 @@ class Solution(object):
             nums.sort()
             first = nums[0]
             last = nums[len(nums)-1]
-            posf =0
-            posl = len(nums)-1
+            
             print(first,last)
             for i in range(0,len(nums)):
                 if nums[i] == first:
