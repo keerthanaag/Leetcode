@@ -1,5 +1,5 @@
-class Solution(object):
-    def countElements(self, nums):
+class Solution:
+    def countElements(self, nums: List[int]) -> int:
         if len(set(nums)) == 1:
             return 0 
         elif len(set(nums)) == len(nums):
@@ -8,13 +8,10 @@ class Solution(object):
             nums.sort()
             first = nums[0]
             last = nums[len(nums)-1]
-            
-            print(first,last)
             for i in range(0,len(nums)):
                 if nums[i] == first:
                     posf = i
                 if nums[i] != last:
                     posl = i
-                print(nums,i,nums[i],posf,posl)
             return posl-posf 
         
