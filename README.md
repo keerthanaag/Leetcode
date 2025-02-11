@@ -92,6 +92,7 @@ storing all my solutions in leetcode
 | [2159-two-out-of-three](https://github.com/keerthanaag/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/keerthanaag/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/keerthanaag/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/keerthanaag/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanaag/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/keerthanaag/Leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -152,6 +153,7 @@ storing all my solutions in leetcode
 | [2159-two-out-of-three](https://github.com/keerthanaag/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/keerthanaag/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/keerthanaag/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2486-most-frequent-even-element](https://github.com/keerthanaag/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/keerthanaag/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -372,6 +374,7 @@ storing all my solutions in leetcode
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/keerthanaag/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/keerthanaag/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/keerthanaag/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/keerthanaag/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/keerthanaag/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -514,6 +517,7 @@ storing all my solutions in leetcode
 | ------- |
 | [0506-relative-ranks](https://github.com/keerthanaag/Leetcode/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/keerthanaag/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/keerthanaag/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Tree
 |  |
 | ------- |
