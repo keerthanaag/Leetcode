@@ -96,6 +96,7 @@ storing all my solutions in leetcode
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/keerthanaag/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanaag/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/keerthanaag/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2386-min-max-game](https://github.com/keerthanaag/Leetcode/tree/master/2386-min-max-game) |
 | [2465-shifting-letters-ii](https://github.com/keerthanaag/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2486-most-frequent-even-element](https://github.com/keerthanaag/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -463,6 +464,7 @@ storing all my solutions in leetcode
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/keerthanaag/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/keerthanaag/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/keerthanaag/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2386-min-max-game](https://github.com/keerthanaag/Leetcode/tree/master/2386-min-max-game) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthanaag/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/keerthanaag/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/keerthanaag/Leetcode/tree/master/3447-clear-digits) |
