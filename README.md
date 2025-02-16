@@ -101,6 +101,7 @@ storing all my solutions in leetcode
 | [2465-shifting-letters-ii](https://github.com/keerthanaag/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2486-most-frequent-even-element](https://github.com/keerthanaag/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [2561-number-of-distinct-averages](https://github.com/keerthanaag/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/keerthanaag/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -158,6 +159,7 @@ storing all my solutions in leetcode
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/keerthanaag/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthanaag/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/keerthanaag/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [2561-number-of-distinct-averages](https://github.com/keerthanaag/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/keerthanaag/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/keerthanaag/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -342,6 +344,7 @@ storing all my solutions in leetcode
 | [0455-assign-cookies](https://github.com/keerthanaag/Leetcode/tree/master/0455-assign-cookies) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/keerthanaag/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/keerthanaag/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2561-number-of-distinct-averages](https://github.com/keerthanaag/Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## String Matching
 |  |
 | ------- |
@@ -381,6 +384,7 @@ storing all my solutions in leetcode
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/keerthanaag/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthanaag/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2561-number-of-distinct-averages](https://github.com/keerthanaag/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/keerthanaag/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2650-split-with-minimum-sum](https://github.com/keerthanaag/Leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Dynamic Programming
