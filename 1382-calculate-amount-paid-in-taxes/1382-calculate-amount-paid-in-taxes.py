@@ -8,7 +8,6 @@ class Solution:
                 prev = x[0]
             else:
                 break
-        ans = round(ans, 5)
-        return ans
+        return round(ans, 5)
         
         
