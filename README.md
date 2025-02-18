@@ -57,6 +57,7 @@ storing all my solutions in leetcode
 | [1287-distance-between-bus-stops](https://github.com/keerthanaag/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/keerthanaag/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/keerthanaag/Leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthanaag/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanaag/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/keerthanaag/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -468,6 +469,7 @@ storing all my solutions in leetcode
 | [0258-add-digits](https://github.com/keerthanaag/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/keerthanaag/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/keerthanaag/Leetcode/tree/master/0415-add-strings) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/keerthanaag/Leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1769-get-maximum-in-generated-array](https://github.com/keerthanaag/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/keerthanaag/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/keerthanaag/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
