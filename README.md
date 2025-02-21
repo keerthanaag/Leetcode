@@ -44,6 +44,7 @@ storing all my solutions in leetcode
 | [0496-next-greater-element-i](https://github.com/keerthanaag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/keerthanaag/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/keerthanaag/Leetcode/tree/master/0506-relative-ranks) |
+| [0566-reshape-the-matrix](https://github.com/keerthanaag/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/keerthanaag/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0816-design-hashset](https://github.com/keerthanaag/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/keerthanaag/Leetcode/tree/master/0817-design-hashmap) |
@@ -472,6 +473,7 @@ storing all my solutions in leetcode
 | [0258-add-digits](https://github.com/keerthanaag/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/keerthanaag/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/keerthanaag/Leetcode/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/keerthanaag/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/keerthanaag/Leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1769-get-maximum-in-generated-array](https://github.com/keerthanaag/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/keerthanaag/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -504,6 +506,7 @@ storing all my solutions in leetcode
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/keerthanaag/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanaag/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/keerthanaag/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/keerthanaag/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
