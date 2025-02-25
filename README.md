@@ -107,6 +107,7 @@ storing all my solutions in leetcode
 | [2486-most-frequent-even-element](https://github.com/keerthanaag/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2561-number-of-distinct-averages](https://github.com/keerthanaag/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/keerthanaag/Leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/keerthanaag/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2634-minimum-common-value](https://github.com/keerthanaag/Leetcode/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -274,6 +275,7 @@ storing all my solutions in leetcode
 | [2528-number-of-valid-clock-times](https://github.com/keerthanaag/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2580-circular-sentence](https://github.com/keerthanaag/Leetcode/tree/master/2580-circular-sentence) |
 | [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/keerthanaag/Leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2727-number-of-senior-citizens](https://github.com/keerthanaag/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthanaag/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanaag/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
