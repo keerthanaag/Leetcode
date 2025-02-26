@@ -134,6 +134,7 @@ storing all my solutions in leetcode
 | [0001-two-sum](https://github.com/keerthanaag/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthanaag/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/keerthanaag/Leetcode/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/keerthanaag/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/keerthanaag/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/keerthanaag/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/keerthanaag/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -183,6 +184,7 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/keerthanaag/Leetcode/tree/master/0002-add-two-numbers) |
+| [0160-intersection-of-two-linked-lists](https://github.com/keerthanaag/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0816-design-hashset](https://github.com/keerthanaag/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/keerthanaag/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/keerthanaag/Leetcode/tree/master/0859-design-circular-deque) |
@@ -343,6 +345,7 @@ storing all my solutions in leetcode
 | [0075-sort-colors](https://github.com/keerthanaag/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keerthanaag/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/keerthanaag/Leetcode/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/keerthanaag/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/keerthanaag/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/keerthanaag/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/keerthanaag/Leetcode/tree/master/0283-move-zeroes) |
