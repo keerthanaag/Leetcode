@@ -185,6 +185,7 @@ storing all my solutions in leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/keerthanaag/Leetcode/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/keerthanaag/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/keerthanaag/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/keerthanaag/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/keerthanaag/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/keerthanaag/Leetcode/tree/master/0859-design-circular-deque) |
@@ -229,6 +230,7 @@ storing all my solutions in leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/keerthanaag/Leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/keerthanaag/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/keerthanaag/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/keerthanaag/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/keerthanaag/Leetcode/tree/master/0342-power-of-four) |
