@@ -1,10 +1,15 @@
 # Definition for singly-linked list.
-# class ListNode:
+# class ListNode(object):
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution:
-    def swapNodes(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+class Solution(object):
+    def swapNodes(self, head, k):
+        """
+        :type head: Optional[ListNode]
+        :type k: int
+        :rtype: Optional[ListNode]
+        """
         # calculating the size of the linked list and storing its value in list
         lst = []
         size = 0
@@ -26,6 +31,4 @@ class Solution:
             pos += 1
             cur = cur.next
         return head
-        
-        
         
