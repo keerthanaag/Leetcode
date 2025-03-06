@@ -1,10 +1,10 @@
 # Definition for singly-linked list.
-# class ListNode:
+# class ListNode(object):
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution:
-    def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
+class Solution(object):
+    def removeElements(self, head, val):
         cur = head
         while cur != None :
             print(cur.val)
@@ -22,7 +22,4 @@ class Solution:
                     cur.next = cur.next.next
             else:
                 cur = cur.next
-        #cur.next = cur.next.next
         return head
-
-        
