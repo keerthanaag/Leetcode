@@ -102,6 +102,7 @@ storing all my solutions in leetcode
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanaag/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/keerthanaag/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2386-min-max-game](https://github.com/keerthanaag/Leetcode/tree/master/2386-min-max-game) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/keerthanaag/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2465-shifting-letters-ii](https://github.com/keerthanaag/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2486-most-frequent-even-element](https://github.com/keerthanaag/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -412,6 +413,7 @@ storing all my solutions in leetcode
 | [2215-finding-3-digit-even-numbers](https://github.com/keerthanaag/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/keerthanaag/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthanaag/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/keerthanaag/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2561-number-of-distinct-averages](https://github.com/keerthanaag/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/keerthanaag/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -434,6 +436,7 @@ storing all my solutions in leetcode
 | [1018-largest-perimeter-triangle](https://github.com/keerthanaag/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/keerthanaag/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/keerthanaag/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2650-split-with-minimum-sum](https://github.com/keerthanaag/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/keerthanaag/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -562,6 +565,7 @@ storing all my solutions in leetcode
 | [0506-relative-ranks](https://github.com/keerthanaag/Leetcode/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/keerthanaag/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/keerthanaag/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/keerthanaag/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Binary Tree
 |  |
 | ------- |
