@@ -281,6 +281,7 @@ storing all my solutions in leetcode
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/keerthanaag/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/keerthanaag/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/keerthanaag/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/keerthanaag/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/keerthanaag/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanaag/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -435,6 +436,7 @@ storing all my solutions in leetcode
 | [0455-assign-cookies](https://github.com/keerthanaag/Leetcode/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/keerthanaag/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/keerthanaag/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/keerthanaag/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/keerthanaag/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
