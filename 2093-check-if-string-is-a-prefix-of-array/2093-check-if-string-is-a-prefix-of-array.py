@@ -1,5 +1,5 @@
-class Solution(object):
-    def isPrefixString(self, s, words):
+class Solution:
+    def isPrefixString(self, s: str, words: List[str]) -> bool:
         temp = ""
         for x in words:
             temp += x
