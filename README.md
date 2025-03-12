@@ -88,6 +88,7 @@ storing all my solutions in leetcode
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/keerthanaag/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/keerthanaag/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/keerthanaag/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/keerthanaag/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/keerthanaag/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/keerthanaag/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/keerthanaag/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -283,6 +284,7 @@ storing all my solutions in leetcode
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/keerthanaag/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/keerthanaag/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/keerthanaag/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/keerthanaag/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/keerthanaag/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanaag/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -375,6 +377,7 @@ storing all my solutions in leetcode
 | [0908-middle-of-the-linked-list](https://github.com/keerthanaag/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/keerthanaag/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/keerthanaag/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/keerthanaag/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2561-number-of-distinct-averages](https://github.com/keerthanaag/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/keerthanaag/Leetcode/tree/master/2634-minimum-common-value) |
 ## String Matching
