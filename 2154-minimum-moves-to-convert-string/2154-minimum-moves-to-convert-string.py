@@ -1,5 +1,5 @@
-class Solution:
-    def minimumMoves(self, s: str) -> int:
+class Solution(object):
+    def minimumMoves(self, s):
         i = 0
         cnt = 0
         if len(s) <= 3:
@@ -16,6 +16,3 @@ class Solution:
                 cnt += 1
             i += 3
         return cnt
-
-
-        
