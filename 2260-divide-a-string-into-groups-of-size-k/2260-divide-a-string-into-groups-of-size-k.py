@@ -1,5 +1,5 @@
-class Solution:
-    def divideString(self, s: str, k: int, fill: str) -> List[str]:
+class Solution(object):
+    def divideString(self, s, k, fill):
         i = 0
         lst = []
         while i+k <= len(s):
@@ -11,6 +11,5 @@ class Solution:
             cnt = k - len(temp)
             temp = temp+ (fill*cnt)
             lst.append(temp)
-        print(lst)
         return lst
         
