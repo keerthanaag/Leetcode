@@ -288,6 +288,7 @@ storing all my solutions in leetcode
 | [2154-minimum-moves-to-convert-string](https://github.com/keerthanaag/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/keerthanaag/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/keerthanaag/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanaag/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/keerthanaag/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2528-number-of-valid-clock-times](https://github.com/keerthanaag/Leetcode/tree/master/2528-number-of-valid-clock-times) |
@@ -515,6 +516,7 @@ storing all my solutions in leetcode
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/keerthanaag/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/keerthanaag/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/keerthanaag/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/keerthanaag/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthanaag/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2386-min-max-game](https://github.com/keerthanaag/Leetcode/tree/master/2386-min-max-game) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthanaag/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
