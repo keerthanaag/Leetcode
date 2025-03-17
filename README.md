@@ -101,6 +101,7 @@ storing all my solutions in leetcode
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/keerthanaag/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthanaag/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanaag/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2308-divide-array-into-equal-pairs](https://github.com/keerthanaag/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/keerthanaag/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2386-min-max-game](https://github.com/keerthanaag/Leetcode/tree/master/2386-min-max-game) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/keerthanaag/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -171,6 +172,7 @@ storing all my solutions in leetcode
 | [2215-finding-3-digit-even-numbers](https://github.com/keerthanaag/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/keerthanaag/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthanaag/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2308-divide-array-into-equal-pairs](https://github.com/keerthanaag/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2486-most-frequent-even-element](https://github.com/keerthanaag/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2561-number-of-distinct-averages](https://github.com/keerthanaag/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -465,6 +467,7 @@ storing all my solutions in leetcode
 | [1071-binary-prefix-divisible-by-5](https://github.com/keerthanaag/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/keerthanaag/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2159-two-out-of-three](https://github.com/keerthanaag/Leetcode/tree/master/2159-two-out-of-three) |
+| [2308-divide-array-into-equal-pairs](https://github.com/keerthanaag/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/keerthanaag/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
@@ -481,6 +484,7 @@ storing all my solutions in leetcode
 | [2163-kth-distinct-string-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/keerthanaag/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/keerthanaag/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2308-divide-array-into-equal-pairs](https://github.com/keerthanaag/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2486-most-frequent-even-element](https://github.com/keerthanaag/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2594-count-pairs-of-similar-strings](https://github.com/keerthanaag/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/keerthanaag/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
