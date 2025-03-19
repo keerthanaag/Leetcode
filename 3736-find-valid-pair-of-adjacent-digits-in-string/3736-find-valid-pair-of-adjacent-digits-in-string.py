@@ -1,5 +1,5 @@
-class Solution:
-    def findValidPair(self, s: str) -> str:
+class Solution(object):
+    def findValidPair(self, s):
         d ={}
         for x in s:
             if x in d:
@@ -14,4 +14,5 @@ class Solution:
                 continue
             if int(s[i]) == d[s[i]] and int(s[i+1]) == d[s[i+1]]:
                 return s[i:i+2]
-        return ""        
+        return ""  
+        
