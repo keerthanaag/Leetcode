@@ -188,6 +188,7 @@ storing all my solutions in leetcode
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/keerthanaag/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/keerthanaag/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/keerthanaag/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/keerthanaag/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
 |  |
 | ------- |
@@ -313,6 +314,7 @@ storing all my solutions in leetcode
 | [3567-convert-date-to-binary](https://github.com/keerthanaag/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/keerthanaag/Leetcode/tree/master/3636-check-balanced-string) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/keerthanaag/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/keerthanaag/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -497,6 +499,7 @@ storing all my solutions in leetcode
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/keerthanaag/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/keerthanaag/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/keerthanaag/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/keerthanaag/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Database
 |  |
 | ------- |
