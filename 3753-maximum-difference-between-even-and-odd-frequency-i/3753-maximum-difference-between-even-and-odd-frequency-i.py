@@ -1,5 +1,5 @@
-class Solution:
-    def maxDifference(self, s: str) -> int:
+class Solution(object):
+    def maxDifference(self, s):
         d = {}
         for x in s:
             if x in d:
