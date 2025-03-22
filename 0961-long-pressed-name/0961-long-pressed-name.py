@@ -1,10 +1,5 @@
-class Solution(object):
-    def isLongPressedName(self, name, typed):
-        """
-        :type name: str
-        :type typed: str
-        :rtype: bool
-        """
+class Solution:
+    def isLongPressedName(self, name: str, typed: str) -> bool:
         if len(name) > len(typed):
             return False
         n=len(name)
