@@ -279,6 +279,7 @@ storing all my solutions in leetcode
 | [0500-keyboard-row](https://github.com/keerthanaag/Leetcode/tree/master/0500-keyboard-row) |
 | [0812-rotate-string](https://github.com/keerthanaag/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/keerthanaag/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0961-long-pressed-name](https://github.com/keerthanaag/Leetcode/tree/master/0961-long-pressed-name) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/keerthanaag/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/keerthanaag/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -387,6 +388,7 @@ storing all my solutions in leetcode
 | [0455-assign-cookies](https://github.com/keerthanaag/Leetcode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/keerthanaag/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/keerthanaag/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0961-long-pressed-name](https://github.com/keerthanaag/Leetcode/tree/master/0961-long-pressed-name) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/keerthanaag/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/keerthanaag/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/keerthanaag/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
