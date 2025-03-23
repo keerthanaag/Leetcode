@@ -1,5 +1,5 @@
-class Solution:
-    def isSubstringPresent(self, s: str) -> bool:
+class Solution(object):
+    def isSubstringPresent(self, s):
         lst = []
         for i in range(len(s)-1):
             print(s[i:i+2])
@@ -10,4 +10,3 @@ class Solution:
             if temp in lst:
                 return True
         return False
-        
