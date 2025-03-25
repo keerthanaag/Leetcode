@@ -280,6 +280,7 @@ storing all my solutions in leetcode
 | [0482-license-key-formatting](https://github.com/keerthanaag/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/keerthanaag/Leetcode/tree/master/0500-keyboard-row) |
 | [0812-rotate-string](https://github.com/keerthanaag/Leetcode/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/keerthanaag/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/keerthanaag/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-long-pressed-name](https://github.com/keerthanaag/Leetcode/tree/master/0961-long-pressed-name) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/keerthanaag/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -363,6 +364,7 @@ storing all my solutions in leetcode
 | [0232-implement-queue-using-stacks](https://github.com/keerthanaag/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/keerthanaag/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/keerthanaag/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0874-backspace-string-compare](https://github.com/keerthanaag/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/keerthanaag/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/keerthanaag/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthanaag/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -390,6 +392,7 @@ storing all my solutions in leetcode
 | [0392-is-subsequence](https://github.com/keerthanaag/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/keerthanaag/Leetcode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/keerthanaag/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0874-backspace-string-compare](https://github.com/keerthanaag/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/keerthanaag/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0961-long-pressed-name](https://github.com/keerthanaag/Leetcode/tree/master/0961-long-pressed-name) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/keerthanaag/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -530,6 +533,7 @@ storing all my solutions in leetcode
 | [0412-fizz-buzz](https://github.com/keerthanaag/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/keerthanaag/Leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/keerthanaag/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0874-backspace-string-compare](https://github.com/keerthanaag/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/keerthanaag/Leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1769-get-maximum-in-generated-array](https://github.com/keerthanaag/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/keerthanaag/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
