@@ -283,6 +283,7 @@ storing all my solutions in leetcode
 | [0874-backspace-string-compare](https://github.com/keerthanaag/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/keerthanaag/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-long-pressed-name](https://github.com/keerthanaag/Leetcode/tree/master/0961-long-pressed-name) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/keerthanaag/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/keerthanaag/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/keerthanaag/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -365,6 +366,7 @@ storing all my solutions in leetcode
 | [0234-palindrome-linked-list](https://github.com/keerthanaag/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/keerthanaag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/keerthanaag/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/keerthanaag/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/keerthanaag/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/keerthanaag/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/keerthanaag/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
