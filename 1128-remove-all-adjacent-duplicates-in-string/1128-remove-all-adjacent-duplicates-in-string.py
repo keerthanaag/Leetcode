@@ -1,6 +1,6 @@
 from collections import deque
-class Solution:
-    def removeDuplicates(self, s: str) -> str:
+class Solution(object):
+    def removeDuplicates(self, s):
         stack = deque()
         for i in range(len(s)):
             print(i,s[i])
