@@ -520,6 +520,7 @@ storing all my solutions in leetcode
 | [0577-employee-bonus](https://github.com/keerthanaag/Leetcode/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/keerthanaag/Leetcode/tree/master/0620-not-boring-movies) |
 | [1390-average-selling-price](https://github.com/keerthanaag/Leetcode/tree/master/1390-average-selling-price) |
+| [1415-students-and-examinations](https://github.com/keerthanaag/Leetcode/tree/master/1415-students-and-examinations) |
 ## Prefix Sum
 |  |
 | ------- |
