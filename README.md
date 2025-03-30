@@ -315,6 +315,7 @@ storing all my solutions in leetcode
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/keerthanaag/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/keerthanaag/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/keerthanaag/Leetcode/tree/master/3451-string-compression-iii) |
+| [3468-find-the-encrypted-string](https://github.com/keerthanaag/Leetcode/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/keerthanaag/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3533-snake-in-matrix](https://github.com/keerthanaag/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/keerthanaag/Leetcode/tree/master/3567-convert-date-to-binary) |
