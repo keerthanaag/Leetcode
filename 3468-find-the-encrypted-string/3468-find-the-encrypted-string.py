@@ -1,5 +1,5 @@
-class Solution:
-    def getEncryptedString(self, s: str, k: int) -> str:
+class Solution(object):
+    def getEncryptedString(self, s, k):
         i = 0
         temp = []
         while i < len(s):  
@@ -7,4 +7,3 @@ class Solution:
             temp.append(s[pos])
             i += 1
         return "".join(temp)
-                
