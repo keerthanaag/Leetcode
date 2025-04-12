@@ -524,6 +524,7 @@ storing all my solutions in leetcode
 | [1338-queries-quality-and-percentage](https://github.com/keerthanaag/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/keerthanaag/Leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/keerthanaag/Leetcode/tree/master/1415-students-and-examinations) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/keerthanaag/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Prefix Sum
 |  |
 | ------- |
