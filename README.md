@@ -519,6 +519,7 @@ storing all my solutions in leetcode
 | [0197-rising-temperature](https://github.com/keerthanaag/Leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/keerthanaag/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/keerthanaag/Leetcode/tree/master/0577-employee-bonus) |
+| [0596-classes-more-than-5-students](https://github.com/keerthanaag/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/keerthanaag/Leetcode/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/keerthanaag/Leetcode/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/keerthanaag/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
