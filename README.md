@@ -529,6 +529,7 @@ storing all my solutions in leetcode
 | [1338-queries-quality-and-percentage](https://github.com/keerthanaag/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/keerthanaag/Leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/keerthanaag/Leetcode/tree/master/1415-students-and-examinations) |
+| [1670-patients-with-a-condition](https://github.com/keerthanaag/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/keerthanaag/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/keerthanaag/Leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/keerthanaag/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
