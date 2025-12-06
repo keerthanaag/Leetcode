@@ -65,6 +65,7 @@ storing all my solutions in leetcode
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthanaag/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/keerthanaag/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/keerthanaag/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/keerthanaag/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/keerthanaag/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/keerthanaag/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/keerthanaag/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -432,6 +433,7 @@ storing all my solutions in leetcode
 | [1018-largest-perimeter-triangle](https://github.com/keerthanaag/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/keerthanaag/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/keerthanaag/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/keerthanaag/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/keerthanaag/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/keerthanaag/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/keerthanaag/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
