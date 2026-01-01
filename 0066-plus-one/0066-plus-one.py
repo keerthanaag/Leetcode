@@ -1,30 +1,28 @@
-class Solution(object):
-    def plusOne(self, digits):
-        """
-        :type digits: List[int]
-        :rtype: List[int]
-        """
-        #convert to num thn add 1 to the num
-        # import math
-        # n=len(digits)
-        # temp=0
-        # for i in range(n):
-        #     temp=temp+(digits[i]*math.pow(10,n-i-1))
-        # temp=int(temp)+1
-        # num = temp
-        # count = 0
-        # while num != 0:
-        #     num //= 10
-        #     count += 1
-        # res= [1] * count
-        # for i in range(count):
-        #     res[i]=int(temp/(math.pow(10,count-i-1)))
-        #     temp=temp%(math.pow(10,count-i-1))
-        # return res
-        strings = ""
-        for number in digits:
-            strings += str(number)
-
-        temp = str(int(strings) +1)
-
-        return [int(temp[i]) for i in range(len(temp))]
+class Solution:
+    def plusOne(self, digits: List[int]) -> List[int]:
+        flag = 0
+        for i in range(len(digits)-1,-1,-1):
+            print(i,digits[i],"first")
+            if flag == 1:
+                if digits[i] < 9:
+                    digits[i] = digits[i]+1
+                    flag = 0
+                    print("break 1")
+                    break
+                else:
+                    digits[i] = 0
+                    flag = 1
+            #print(digits[i])
+            else:
+                if digits[i] < 9 :
+                    digits[i] = digits[i]+1
+                    print("break 2")
+                    break
+                else:
+                    digits[i] = 0
+                    flag = 1
+        if flag == 1:
+            digits.insert(0,1)
+            print(i,digits[i],"last")
+        print(digits)
+        return digits
