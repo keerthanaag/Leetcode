@@ -237,6 +237,7 @@ storing all my solutions in leetcode
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthanaag/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/keerthanaag/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/keerthanaag/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2485-find-the-pivot-integer](https://github.com/keerthanaag/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2650-split-with-minimum-sum](https://github.com/keerthanaag/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/keerthanaag/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/keerthanaag/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -554,6 +555,7 @@ storing all my solutions in leetcode
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/keerthanaag/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2465-shifting-letters-ii](https://github.com/keerthanaag/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/keerthanaag/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2485-find-the-pivot-integer](https://github.com/keerthanaag/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Simulation
 |  |
 | ------- |
