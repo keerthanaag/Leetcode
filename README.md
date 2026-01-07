@@ -229,6 +229,7 @@ storing all my solutions in leetcode
 | [0343-integer-break](https://github.com/keerthanaag/Leetcode/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/keerthanaag/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/keerthanaag/Leetcode/tree/master/0415-add-strings) |
+| [0728-self-dividing-numbers](https://github.com/keerthanaag/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/keerthanaag/Leetcode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/keerthanaag/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/keerthanaag/Leetcode/tree/master/1018-largest-perimeter-triangle) |
