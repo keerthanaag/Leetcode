@@ -1,15 +1,20 @@
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
-        lst=[]
-        temp=[]
-        for i in range(1,numRows+1):
-            for j in range(i):
-                if j == 0 or j == i-1:
+        pascal = []
+        for i in range(0,numRows):
+            temp =[]
+            for j in range(0,i+1):
+                if i == j or j == 0:
                     temp.append(1)
                 else:
-                    temp.append(lst[-1][j-1]+lst[-1][j])
-            lst.append(temp)
-            temp=[]
-        return lst
+                    #2,1 = (1,0)+(1,1)
+                    #3,1 = (2,0)+(2,1)
+                    #3,2 = (2,1)+(2,2)
+                    print(i,j)
+                    val = pascal[i-1][j-1]+pascal[i-1][j]
+                    temp.append(val) 
+                print("temp",i,temp)
+            pascal.append(temp)
+            print("pascal",pascal)
+        return pascal
 
-        
