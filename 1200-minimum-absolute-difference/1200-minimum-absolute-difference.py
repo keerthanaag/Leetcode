@@ -1,9 +1,5 @@
-class Solution(object):
-    def minimumAbsDifference(self, arr):
-        """
-        :type arr: List[int]
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def minimumAbsDifference(self, arr: List[int]) -> List[List[int]]:
         arr.sort()
         abs_diff = arr[1] - arr[0]
         result = []
@@ -15,4 +11,3 @@ class Solution(object):
                 result = []
                 result.append([arr[i],arr[i+1]])
         return result
-        
